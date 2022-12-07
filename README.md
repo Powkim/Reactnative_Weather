@@ -1,4 +1,4 @@
-## 🐥 기술스택
+<!-- ## 🐥 기술스택
 
 - ![image](https://user-images.githubusercontent.com/97659846/201456871-b8573861-d422-4401-9b31-4971c471e1ae.png)
 - ![image](https://user-images.githubusercontent.com/97659846/201456885-b7a0cf4c-bfe9-4ed6-a66a-e4cf75a8a2eb.png)
@@ -20,4 +20,4 @@
 | 🚚      | rename   | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우 |
 | 🔥      | remove   | 파일을 삭제하는 작업만 수행한 경우                 |
 
-</div>
+</div> -->
